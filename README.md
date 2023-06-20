@@ -2,3 +2,5 @@
 
 
 [![Java CI with Gradle](https://github.com/sarian-s/AutoTestingDz-1/actions/workflows/gradle.yml/badge.svg)](https://github.com/sarian-s/AutoTestingDz-1/actions/workflows/gradle.yml)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/7b7n7w9gao43ncv3?svg=true)](https://ci.appveyor.com/project/Sergei37964/autotestingdz-1)
